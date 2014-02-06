@@ -2,8 +2,8 @@ source 'https://rubygems.org'
 source 'https://BnrJb6FZyzspBboNJzYZ@gem.fury.io/govuk/'
 
 gem 'rails', '4.0.2'
-gem 'slimmer'
-# gem 'gds-api-adapters'
+# gem 'slimmer', "~> 3.25.0"
+gem 'gds-api-adapters'
 # gem 'exception_notification', '4.0.1'
 # gem 'aws-ses', require: 'aws/ses'
 # gem 'unicorn', '4.8.1'
